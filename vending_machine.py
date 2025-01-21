@@ -37,7 +37,7 @@ C3: {items['C3'].capitalize()}    {price['cheetos']} Aed| In Stock: {stock['C3']
     print(display)
 
 # Prompts user input for initial balance.    
-balance = int(input("Please ennter how much money you want to insert: "))
+balance = int(input("Please enter how much money you want to insert: "))
 more = "Y"
 choice = None
 
